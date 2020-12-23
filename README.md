@@ -1,1 +1,3 @@
-# docker-imgrecog
+# IMGRecog.js Docker image
+
+Coming soon...
